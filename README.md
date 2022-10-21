@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+This is a lazyyyy cookie in a jar
+
+mainly used java and kotlin
+Looking to learn rust and go :D 
+
+Don't know what to say .... That's all
+Add more as I think of it
+
 <!--
 **Yummy-Cookie-S/Yummy-Cookie-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
